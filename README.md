@@ -1,4 +1,4 @@
-# 🧠 QuizNest – AI Quiz App
+# 🧠 QuizNest – Quiz App
 
 ## 🚀 Features
 
