@@ -1,19 +1,19 @@
-# 🧠 QuizNest – Quiz App
+# QuizNest – Quiz App
 
-## 🚀 Features
+## Features
 
-### 🔐 Authentication
+###  Authentication
 
 * Google OAuth & JWT-based secure login
 * Role-based access (User, Premium, Admin)
 
-### 🧠 AI-Powered Quiz Generation
+###  AI-Powered Quiz Generation
 
 * Automatically generate MCQs & written questions
 * AI assigns duration, marks, and evaluates written answers using NLP
 * Adaptive difficulty: beginners get easier questions, advanced users get harder ones
 
-### 🎮 Smart Quiz Experience ✅
+###  Smart Quiz Experience 
 
 * **Intelligent Fullscreen Mode**: Auto-submit protection when interrupted (Escape key, route changes, browser close)
 * **Performance-Optimized UI**: Lightning-fast rendering with smooth animations
@@ -21,7 +21,7 @@
 * **Enhanced Timer**: Centered, non-intrusive timing system
 * **Smart State Management**: Efficient data handling with React best practices
 
-### 🤖 AI Study Buddy *(NEW - Premium Feature)* ✅
+###  AI Study Buddy *(NEW - Premium Feature)* 
 
 * **Google Gemini 2.5 Pro Integration**: Advanced AI tutoring with personalized responses
 * **Persistent Study Sessions**: Context-aware conversations that remember your learning history
@@ -32,7 +32,7 @@
 * **Quick Actions**: Pre-defined study actions for common learning tasks
 * **Seamless Navigation**: Direct integration with existing quiz system
 
-### ⚔️ Real-Time Quiz Battles *(NEW - Live Multiplayer)* ✅
+###  Real-Time Quiz Battles *(NEW - Live Multiplayer)*
 
 * **Live 1v1 Quiz Duels**: Challenge other users in real-time quiz competitions
 * **Speed Scoring System**: First to answer correctly gets maximum points with time bonuses
@@ -44,7 +44,7 @@
 * **Host Controls**: Room creators can customize settings and manage gameplay
 * **Multiplayer Statistics**: Dedicated stats tracking for competitive gameplay
 
-### 📱 Progressive Web App (PWA) *(NEW)* ✅
+### Progressive Web App (PWA) *(NEW)* 
 
 * **Native App Experience**: Install QuizNest as a native app on any device
 * **Offline Functionality**: Continue learning even without internet connection
@@ -53,7 +53,7 @@
 * **Service Worker Caching**: Lightning-fast loading with smart caching strategies
 * **Cross-Platform**: Works seamlessly on mobile, tablet, and desktop
 
-### 🤖 Intelligence Dashboard *(Premium Feature)* ✅
+###  Intelligence Dashboard *(Premium Feature)* 
 
 * **Smart Quiz Recommendations**: AI-powered quiz suggestions based on performance, favorite categories, and learning patterns
 * **Adaptive Difficulty System**: Dynamic difficulty adjustment based on recent performance with confidence scoring
@@ -62,7 +62,7 @@
 * **Next Quiz Predictions**: AI predicts expected performance on upcoming quizzes
 * **Personalized Study Tips**: Custom recommendations for optimal study times and improvement areas
 
-### 📊 Advanced Analytics & Reports ✅
+###  Advanced Analytics & Reports 
 
 * **Beautiful User Reports**: Modern card layouts replacing clunky tables on mobile
 * **Real-Time Performance Tracking**: Live progress updates and achievements
@@ -71,9 +71,9 @@
 * **Quiz History**: Detailed performance reports with visual feedback
 * **Score Analytics**: Real-time feedback and comprehensive score tracking
 
-### 🏆 Gamification
+###  Gamification
 
-* **Achievements System** ✅
+* **Achievements System** 
 
   * Earn badges like “Quiz Master,” “Speed Genius,” and “Perfect Score”
   * View badges and stats in user profile
@@ -82,14 +82,14 @@
   * Weekly and monthly top scorers
   * Promotes user engagement and competition
 
-### ⚔️ Live Quiz Battles *(Fully Implemented)* ✅
+###  Live Quiz Battles *(Fully Implemented)* 
 
 * Real-time multiplayer quiz competitions with Socket.IO
 * Live scoring with speed bonuses and instant feedback
 * Chat system for communication during battles
 * Room management with customizable settings
 
-### 🎨 Next-Generation UI/UX ✅
+###  Next-Generation UI/UX 
 
 * **Advanced Theme Selector** with 15+ themes including Light/Dark/Material/Dracula/Nord modes
 * **Mobile-First Design** with responsive navigation bar for phones and tablets
@@ -102,12 +102,12 @@
 * **Hardware Accelerated Transitions** using CSS transforms and optimized backdrop-filters
 * **Smooth Animation Framework** with simplified framer-motion implementations for better performance
 
-### 💳 Subscription Plans
+### Subscription Plans
 
 * **Free Plan**: Limited quizzes, core features, basic multiplayer access
 * **Premium Plan**: Unlimited access, AI Study Buddy, Intelligence Dashboard, advanced achievements, PWA features, and premium multiplayer battles
 
-### 📚 Comprehensive Help System ✅
+### Comprehensive Help System 
 
 * **Interactive Help Guide**: Step-by-step tutorials for every feature
 * **User Type Explanations**: Clear differences between Simple, Premium, and Admin users
@@ -116,7 +116,7 @@
 * **Feature Walkthroughs**: Detailed explanations of all platform capabilities
 * **Mobile-Optimized Help**: Responsive help system for all devices
 
-### 🛡️ Admin Panel
+###  Admin Panel
 
 A powerful admin dashboard providing full control of platform operations:
 
@@ -127,7 +127,7 @@ A powerful admin dashboard providing full control of platform operations:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend**: React, CSS, Vite, PWA Service Workers
 * **Backend**: Node.js, Express.js, MongoDB, Socket.IO
